@@ -38,6 +38,8 @@ A busy support operation generates more signal than any manager can read: every 
 
 ### Keeps an eye on the whole operation
 - **Daily store health-check monitoring** — tracks the daily check-in reports and flags any store missing its data today.
+- **Network monitor** — register each store's computers, routers, and devices to be watched; if one goes unreachable past its threshold, an **outage opens and a red banner alerts everyone** until it recovers. Tracks response time and uptime history per device.
+- **Full ticket attachments** — images, audio, video, PDFs, and the daily check-in reports are captured in full and viewable right inside the ticket and the agent timeline.
 - **Trouble-trend views** over 7, 30, and 90 days.
 - **Stores ranked by open ticket volume**, with last-activity timestamps.
 
@@ -62,6 +64,9 @@ A busy support operation generates more signal than any manager can read: every 
 
 ![Knowledge base](img/helpdesk-kb.png)
 > _Screenshot: the self-building knowledge base — searchable fixes with how many times each has been confirmed._
+
+![Network monitor](img/helpdesk-network.png)
+> _Screenshot: the network monitor — store devices being watched, with live status, response time, and outage history._
 
 ---
 

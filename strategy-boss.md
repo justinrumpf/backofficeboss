@@ -29,6 +29,23 @@ Each risk is **ranked by severity** and ages up over time. You can acknowledge a
 - Computes a **single composite score per brand** each month, blending goal attainment, the share of stores hitting their targets, and a penalty for unresolved risk.
 - **Ranks your brands against each other**, with the change since last period — your CEO scoreboard at a glance.
 
+### Scores every store
+- Ranks every store within its brand on a **single 0–100 scorecard** built from nine factors: sales, sales per labor hour, average sale, discounting, aged inventory, cash variances, helpdesk tickets, loss-prevention cases, and goals met — with sales weighted most.
+- Switch between **7-, 30-, and 90-day** windows, and **click any score** to see the numbers behind it.
+
+### Scans your competition
+- **Track competitors brand by brand** — add each one's key pages (homepage, promotions, policies, careers), and add **your own sites alongside** as the comparison baseline.
+- **Crawls their public pages automatically** — on demand or on a daily schedule — *politely, through a third-party crawler*, so your own network never touches their site and there's no blacklisting risk.
+- The AI then **compares them directly against you** and writes up:
+  - **Strategy & positioning** — what they're going for, and what you can learn from it.
+  - **Promotions** — any active sales or discounts it can spot on their site.
+  - **Pricing** — how their pricing signals stack up against yours.
+  - **Policies** — returns, buying, membership — and whether yours are more or less customer-friendly.
+  - **Hiring** — how they recruit and what they advertise, so you know if you're competitive as a place to *work*.
+  - **Recommendations** — concrete moves to exploit the gaps.
+- Results are **saved and shown instantly** on your next visit — no waiting on a re-scan.
+- Connects in seconds with a free web-search key entered once.
+
 ### Sets the next big goals
 - Each quarter it **proposes a few strategic goals per brand**, grounded in that brand's actual results and the cross-business picture — focused on existing-store performance, not vague growth.
 - Tracks each strategic goal's progress on a longer cadence, marking them met or at-risk.
@@ -50,6 +67,12 @@ Each risk is **ranked by severity** and ages up over time. You can acknowledge a
 
 ![Brand drilldown](img/strategy-brand.png)
 > _Screenshot: a single brand — its score history and every store with its goal, risk, and helpdesk stats._
+
+![Store scorecard](img/strategy-scorecard.png)
+> _Screenshot: the store scorecard — every store ranked 0–100 across nine factors, switchable by time window._
+
+![Competition scanner](img/strategy-competition.png)
+> _Screenshot: the competition scanner — a competitor's AI analysis vs. your own brand: strategy, promotions, pricing, policies, hiring, and recommended moves._
 
 ![Risk feed](img/strategy-risks.png)
 > _Screenshot: the full risk feed — every open risk by type and severity, with acknowledge and resolve._

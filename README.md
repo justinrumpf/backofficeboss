@@ -45,9 +45,11 @@ Each Boss replaces or augments a specific back-office role. Click any one to see
 | [**HR Boss**](hr-boss.md) | Recruiter & screening lead | Reviews every resume, scores fit, drafts outreach |
 | [**Loss Prevention Boss**](loss-prevention-boss.md) | LP investigator | Scores theft risk, runs live fraud detectors, schedules audits |
 | [**Operations Boss**](operations-boss.md) | Operations manager & store coach | Sets reachable goals, drafts weekly coaching, tracks progress |
-| [**Strategy Boss**](strategy-boss.md) | Chief strategist & CEO scoreboard | Ranks company-wide risk, surfaces blind spots, proposes goals |
+| [**Strategy Boss**](strategy-boss.md) | Chief strategist & CEO scoreboard | Ranks company-wide risk, scores stores, scans competitors, surfaces blind spots |
 | [**Data Analyst**](data-analyst.md) | Embedded analyst | Answers plain-English questions, delivers a daily executive brief |
 | [**Labor Planner**](labor-planning.md) | Labor planner & schedule analyst | Matches staffing to demand, flags over- and under-staffing |
+| [**Marketing Boss**](marketing-boss.md) | Marketing manager + CRM + campaign analyst | Builds a customer database; runs loyalty & rewards, segmentation, promotions & local outreach |
+| [**Inventory Boss**](inventory-boss.md) | Inventory manager + merchandiser + buyer | Tracks aging & dead stock, reorders, clearance, and what's selling vs. sitting |
 
 > **These are the roles one business needed.** Your business is different — BackOfficeBoss is built around *your* roles, *your* reports, and *your* rules. Adapt these, use the pieces that fit, or start from a blank page. [More on customization →](#built-around-you-not-the-other-way-around)
 

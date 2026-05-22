@@ -58,4 +58,4 @@ Labor is one of your biggest controllable costs — and one of the easiest to ge
 - "This store's sales per labor hour is well below its peers — overstaffed, or scheduled at the wrong times."
 
 ---
-[← Data Analyst](data-analyst.md) · [Back to overview](README.md) · [Read the FAQ →](FAQ.md)
+[← Data Analyst](data-analyst.md) · [Back to overview](README.md) · [Next: Marketing Boss →](marketing-boss.md)

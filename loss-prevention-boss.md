@@ -23,6 +23,11 @@ Shrink and internal theft hide in the noise of thousands of routine transactions
 - **Large cash buys without ID verification** — cash buys over a threshold with no ID on file.
 - **Accounting cross-check** — when a store's cash variance lines up with one specific person's shifts, it opens a loss-prevention case (separate from the bookkeeping side).
 
+### Watches employee purchases
+- A **daily feed of every employee purchase** — who, when, which store, the line items, the ticket price vs. the buying-guide price vs. what they actually paid, and how long the item had been on the floor.
+- Catches **discount abuse**: cherry-picking brand-new stock, paying far below guide or market price, and discounting items too new to be eligible.
+- Operations gets a **read-only view** with filters and totals, so managers can keep an eye on it too.
+
 ### Audits everyone — unpredictably
 - Picks **weighted random spot-checks** every night, so investigations can't be gamed by only chasing the obvious suspects.
 - Newer employees and those not checked recently get **extra weight.**
@@ -66,6 +71,9 @@ A risk score decides **who gets investigated** — so it carries the same fairne
 
 ![Fairness / bias check](img/lp-bias.png)
 > _Screenshot: the bias-guard status — the score-neutrality test across demographic profiles and its latest result._
+
+![Employee purchases](img/lp-ee-purchases.png)
+> _Screenshot: the employee-purchase feed — ticket price vs. guide price vs. paid, with discount-abuse flags._
 
 ---
 
