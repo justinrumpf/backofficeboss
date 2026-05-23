@@ -69,8 +69,8 @@ A risk score decides **who gets investigated** — so it carries the same fairne
 ![Case detail](img/lp-case.png)
 > _Screenshot: a single case — the detector evidence, the linked transactions, and the action panel._
 
-![Fairness / bias check](img/lp-bias.png)
-> _Screenshot: the bias-guard status — the score-neutrality test across demographic profiles and its latest result._
+![Fairness / bias check](img/eeoc-bias.png)
+> _Screenshot: **Settings → Learning → EEOC & anti-bias safeguards** — the score-neutrality test across demographic profiles, with pass/fail history. (One shared screen covers both loss-prevention and hiring scoring.)_
 
 ![Employee purchases](img/lp-ee-purchases.png)
 > _Screenshot: the employee-purchase feed — ticket price vs. guide price vs. paid, with discount-abuse flags._

@@ -2,11 +2,11 @@
 
 # Strategy Boss
 
-**The view from 30,000 feet — refreshed every week.**
+**The view from 30,000 feet — and the analyst behind it.**
 
-> _Replaces / augments: Chief strategist + CEO scoreboard_
+> _Replaces / augments: Chief strategist + CEO scoreboard + embedded data analyst_
 
-The hardest part of running a multi-location business is seeing the whole board at once: which risks are building, which brands are pulling ahead, and the problems you don't even know to look for. Strategy Boss is the one place that watches everything the other Bosses see and distills it into a clear, ranked picture for leadership.
+The hardest part of running a multi-location business is seeing the whole board at once: which risks are building, which brands are pulling ahead, and the problems you don't even know to look for. Strategy Boss is the one place that watches everything the other Bosses see and distills it into a clear, ranked picture for leadership. It's also your **data analyst** — keeping every number current, answering questions in plain English, and writing a one-page brief on the whole business every morning.
 
 ---
 
@@ -58,6 +58,19 @@ Each risk is **ranked by severity** and ages up over time. You can acknowledge a
   - "Buy-to-sale ratio is up across the portfolio — inventory aging?"
 - Strong signals can be **promoted into an operations goal** with one click; the rest you dismiss.
 
+### Keeps every number current — and watches for what's off
+- Rebuilds your performance views **every night** across stores, brands, and employees, with fiscal-aware last-year comparisons — so your dashboards open instantly and already current.
+- Automatically watches for what no one put on a dashboard: **outliers**, building **trends**, **threshold crossings**, **cross-team signals** (like a store that's busy but understaffed), and **funnel drop-offs**.
+- Each finding comes with a headline, a recommendation, a severity, and a confidence — and respects the things you've already dismissed.
+
+### Answers questions in plain English
+- A **question box** where anyone can ask — *"What was sales by brand last week?"* — and get an answer drawn **only from your real data**, with the underlying table shown alongside.
+- Built on a **curated set of trusted questions**, so answers are reliable rather than made up — and it keeps a history of what's been asked.
+
+### Writes a daily executive brief
+- Every morning, a **one-page "state of the business"** — per-team strengths, watch lists, suggested goals, and emerging cross-team trends.
+- A rotating **insight ticker** surfaces the day's top findings, and you can **pin** the charts and numbers you care about.
+
 ---
 
 ## What you'll see
@@ -80,14 +93,21 @@ Each risk is **ranked by severity** and ages up over time. You can acknowledge a
 ![Unknown-unknowns sweep](img/strategy-unknowns.png)
 > _Screenshot: the monthly blind-spot signals, each with a strength rating and a promote-to-goal action._
 
+![Daily executive brief](img/strategy-brief.png)
+> _Screenshot: the morning executive brief — per-team strengths, watch lists, and emerging trends, with the insight ticker._
+
+![Ask in plain English](img/strategy-qa.png)
+> _Screenshot: the plain-English question box — a typed question, the answer, and the underlying data table._
+
 ---
 
 ## Decisions it puts in front of you
 
 - "Your three highest risks this week, ranked — and why each one matters."
-- "Heads up: discount rates are creeping up across two brands at once."
+- "Here's this morning's executive summary across every team."
+- "You asked how the brand compares to last year — here's the answer, with the numbers."
 - "Brand A's score dropped 6 points this month — here's what's behind it."
 - "Proposed strategic goals for next quarter — review and approve."
 
 ---
-[← Operations Boss](operations-boss.md) · [Back to overview](README.md) · [Next: Data Analyst →](data-analyst.md)
+[← Operations Boss](operations-boss.md) · [Back to overview](README.md) · [Next: Labor Planner →](labor-planning.md)

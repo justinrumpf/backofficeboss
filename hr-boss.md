@@ -68,8 +68,8 @@ A system that scores and ranks job applicants has to be **demonstrably fair** �
 ![Intake](img/hr-intake.png)
 > _Screenshot: the intake list — unrouted resumes you assign to a role in one click._
 
-![Fairness / EEOC bias check](img/hr-eeoc.png)
-> _Screenshot: the fairness check — the most recent bias-test run, its pass status, and the score spread across paired profiles._
+![Fairness / EEOC bias check](img/eeoc-bias.png)
+> _Screenshot: **Settings → Learning → EEOC & anti-bias safeguards** — every bias-test run with pass/fail, the score spread across paired profiles, and a "run check now" button. (One shared screen covers both hiring and loss-prevention scoring.)_
 
 ---
 
